@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mongodb": "^3.6.11",
+    "mongoose": "^5.13.7",
+    "nodemon": "^2.0.12",
+    "validator": "^13.6.0"
+  },
+  "name": "mongoose-checkpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ziad Hegazi",
+  "license": "ISC",
+  "description": ""
+}
